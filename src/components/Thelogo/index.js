@@ -1,0 +1,1 @@
+export { Thelogo } from "./Thelogo";
